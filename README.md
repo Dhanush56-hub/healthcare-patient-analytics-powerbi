@@ -131,7 +131,8 @@ Focuses on patient demographics and admission patterns.
 - Department & Admission Type
 - Age Group & Gender
 
-![Patient & Demographic Analysis](Screenshots/Patient_Demographic_Analysis.png)
+![Patient & Demographic Analysis](Screenshots/Patient%20%26%20Demographic%20Analysis.png)
+
 
 ---
 
@@ -148,7 +149,7 @@ Compares healthcare departments across operational and patient-related metrics.
 - Patient Satisfaction
 - Total Treatment Cost
 
-![Department Performance](Screenshots/Department_Performance.png)
+![Department Performance](Screenshots/Department%20Performance.png)
 
 ---
 
@@ -165,7 +166,7 @@ Focuses on the financial performance of treatments and departments.
 - Treatment Cost by Payment Method
 - Cost Per Patient by Department
 
-![Financial & Treatment Analysis](Screenshots/Financial_Treatment_Analysis.png)
+![Financial & Treatment Analysis](Screenshots/Financial%20%26%20Treatment%20Analysis.png)
 
 ---
 
@@ -182,7 +183,7 @@ Analyzes patient outcomes, satisfaction, and readmission behavior.
 - Patient Satisfaction by Outcome
 - Readmission Rate by Age Group
 
-![Outcomes & Readmission Analysis](Screenshots/Outcomes_Readmission_Analysis.png)
+![Outcomes & Readmission Analysis](Screenshots/Outcomes%20%26%20Readmission%20Analysis.png)
 
 ---
 
@@ -203,8 +204,7 @@ Provides detailed patient-level information through Power BI Drill-through.
 - Readmission status
 - Drill-through navigation
 
-![Patient Details](Screenshots/Patient_Details.png)
-
+![Patient Details](Screenshots/Patient%20Details.png)
 ---
 
 # 🔍 Key Business Insights

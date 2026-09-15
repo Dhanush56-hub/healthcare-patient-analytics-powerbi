@@ -1,0 +1,115 @@
+# Healthcare Patient Analytics — Project Insights
+
+## Project Overview
+
+This project analyzes 10,000 healthcare patient records using Power BI.
+
+The dashboard focuses on patient volume, treatment costs, department performance, length of stay, patient satisfaction, outcomes, and readmissions.
+
+---
+
+## Key KPIs
+
+| KPI | Result |
+|---|---:|
+| Total Patients | 10,000 |
+| Total Treatment Cost | ₹25.34 Crore |
+| Average Treatment Cost | ₹25.34K |
+| Average Length of Stay | 3.73 Days |
+| Readmission Rate | 13.27% |
+
+---
+
+## Key Business Insights
+
+### 1. Highest Patient Volume — General Medicine
+
+General Medicine recorded the highest patient volume with 2,055 patients.
+
+This indicates that General Medicine may require careful monitoring of staffing, resources, and capacity.
+
+### 2. Highest Treatment Cost — Oncology
+
+Oncology recorded the highest total treatment cost of approximately ₹8.59 crore.
+
+This makes Oncology the largest contributor to overall treatment expenditure.
+
+### 3. Highest Length of Stay — Oncology
+
+Oncology had the highest average length of stay at 7.13 days.
+
+The longer stay may indicate greater treatment complexity and higher resource requirements.
+
+### 4. Highest Readmission Rate — Oncology
+
+Oncology recorded the highest readmission rate at 18.18%, compared with the overall hospital readmission rate of 13.27%.
+
+This makes Oncology an important area for further investigation.
+
+### 5. Highest Patient Satisfaction — Neurology
+
+Neurology recorded the highest average patient satisfaction score of 3.98 out of 5.
+
+Practices contributing to this higher satisfaction could be studied and applied to other departments where appropriate.
+
+---
+
+## Key Finding
+
+The strongest pattern identified in the analysis was:
+
+**Oncology had the highest treatment cost, highest average length of stay, and highest readmission rate.**
+
+This suggests that Oncology should be investigated further to understand treatment complexity, resource utilization, discharge planning, follow-up, and factors contributing to readmissions.
+
+---
+
+## Business Recommendations
+
+- Review staffing and resource allocation in high-volume departments.
+- Investigate major treatment cost drivers within Oncology.
+- Analyze the reasons for longer hospital stays.
+- Improve discharge planning where appropriate.
+- Investigate factors contributing to Oncology readmissions.
+- Strengthen post-treatment follow-up where appropriate.
+- Study practices associated with higher patient satisfaction.
+
+---
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+## Data Analysis Process
+
+**Raw Data → Data Cleaning → Data Transformation → Data Modeling → DAX → Visualization → Business Insights**
+
+Power Query was used for data cleaning and transformation.
+
+DAX was used to create KPIs and analytical measures.
+
+Power BI was used to build interactive dashboards, slicers, charts, and patient-level drill-through analysis.
+
+---
+
+## Dashboard Pages
+
+1. Executive Dashboard
+2. Patient & Demographic Analysis
+3. Department Performance
+4. Financial & Treatment Analysis
+5. Outcomes & Readmission Analysis
+6. Patient Details
+
+---
+
+## Project Outcome
+
+The project demonstrates an end-to-end Data Analyst workflow, from raw healthcare data preparation to dashboard development and business recommendations.
+
+It provides both high-level management insights and patient-level analysis through interactive filtering and drill-through functionality.

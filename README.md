@@ -10,7 +10,7 @@ The project transforms healthcare data into meaningful business insights through
 
 ## 📊 Dashboard Preview
 
-![Executive_Dashboard](Screenshots/Executive_Dashboard.png)
+![Executive_Dashboard](Screenshots/Executive_Dashboard.png.png)
 
 ---
 

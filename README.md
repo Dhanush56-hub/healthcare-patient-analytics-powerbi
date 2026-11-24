@@ -137,7 +137,7 @@ The report contains six interactive dashboard pages.
 
 ## 1. Executive Dashboard
 
-![Executive Dashboard](Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](Screenshots/Executive_Dashboard.png.png)
 
 Provides a high-level overview of hospital performance.
 
@@ -157,7 +157,7 @@ Provides a high-level overview of hospital performance.
 
 ## 2. Patient & Demographic Analysis
 
-![Patient Demographic Analysis](Screenshots/Patient_Demographic_Analysis.png)
+![Patient Demographic Analysis](Screenshots/Patient_Demographic_Analysis.png.png)
 
 Analyses patient demographics and admission patterns.
 
@@ -175,7 +175,7 @@ Analyses patient demographics and admission patterns.
 
 ## 3. Department Performance
 
-![Department Performance](Screenshots/Department_Performance.png)
+![Department Performance](Screenshots/Department_Performance.png.png)
 
 Evaluates the performance of different hospital departments.
 
@@ -194,7 +194,7 @@ Evaluates the performance of different hospital departments.
 
 ## 4. Financial & Treatment Analysis
 
-![Financial Treatment Analysis](Screenshots/Financial_Treatment_Analysis.png)
+![Financial Treatment Analysis](Screenshots/Financial_Treatment_Analysis.png.png)
 
 Focuses on hospital treatment expenses and financial patterns.
 
@@ -211,7 +211,7 @@ Focuses on hospital treatment expenses and financial patterns.
 
 ## 5. Outcomes & Readmission Analysis
 
-![Outcomes and Readmission Analysis](Screenshots/Outcomes_Readmission_Analysis.png)
+![Outcomes and Readmission Analysis](Screenshots/Outcomes_Readmission_Analysis.png.png)
 
 Examines patient outcomes, recovery patterns and readmissions.
 
@@ -228,7 +228,7 @@ Examines patient outcomes, recovery patterns and readmissions.
 
 ## 6. Patient Details
 
-![Patient Details](Screenshots/Patient_Details.png)
+![Patient Details](Screenshots/Patient_Details.png.png)
 
 Provides a detailed view of individual patient records.
 

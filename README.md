@@ -303,7 +303,7 @@ healthcare-patient-analytics-powerbi/
 │   ├── Outcomes_Readmission_Analysis.png
 │   └── Patient_Details.png
 │
-├── Documentation/
+├── report.pdf
 │
 └── README.md
 ```
